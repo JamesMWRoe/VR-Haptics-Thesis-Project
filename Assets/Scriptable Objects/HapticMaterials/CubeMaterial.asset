@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e9566b33e9f964e93ffe3c47da488e, type: 3}
+  m_Name: CubeMaterial
+  m_EditorClassIdentifier: 
+  thudEffectByAudio: {fileID: 8300000, guid: e90e03a1de2cabe4797384edbdc885ab, type: 3}
+  slideEffectByAudio: {fileID: 8300000, guid: ab9c4b3e4a92807408fe1cd964667b0a, type: 3}
+  contactEffectByAudio: {fileID: 8300000, guid: bce40570ff705d34185f203b2dfe0a74, type: 3}
+  thudEffectByPHF: {fileID: 0}
+  slideEffectByPHF: {fileID: 0}
+  contactEffectByPHF: {fileID: 0}
+  thudPHFLengthInSeconds: 0
+  slidePHFLengthInSeconds: 0
+  contactPHFLengthInSeconds: 0

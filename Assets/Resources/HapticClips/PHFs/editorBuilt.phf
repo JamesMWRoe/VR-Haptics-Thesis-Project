@@ -1,0 +1,190 @@
+{
+  "frameDuration": 20,
+  "patternData_L": [
+    {
+      "frameseq": 0,
+      "frequency": 50,
+      "gain": 0,
+      "loop": 1,
+      "play": 0
+    },
+    {
+      "frameseq": 1,
+      "frequency": 124,
+      "gain": 0.05,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 2,
+      "frequency": 144,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 3,
+      "frequency": 130,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 4,
+      "frequency": 156,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 5,
+      "frequency": 149,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 6,
+      "frequency": 130,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 7,
+      "frequency": 105,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 8,
+      "frequency": 50,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 9,
+      "frequency": 166,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    }
+  ],
+  "patternData_R": [
+    {
+      "frameseq": 0,
+      "frequency": 50,
+      "gain": 0,
+      "loop": 1,
+      "play": 0
+    },
+    {
+      "frameseq": 1,
+      "frequency": 124,
+      "gain": 0.05,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 2,
+      "frequency": 144,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 3,
+      "frequency": 130,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 4,
+      "frequency": 156,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 5,
+      "frequency": 149,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 6,
+      "frequency": 130,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 7,
+      "frequency": 105,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 8,
+      "frequency": 50,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 9,
+      "frequency": 166,
+      "gain": 1,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 10,
+      "frequency": 167,
+      "gain": 0.72,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 11,
+      "frequency": 166,
+      "gain": 0.67,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 12,
+      "frequency": 187,
+      "gain": 0.5,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 13,
+      "frequency": 187,
+      "gain": 0.38,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 14,
+      "frequency": 166,
+      "gain": 0.29,
+      "loop": 1,
+      "play": 1
+    },
+    {
+      "frameseq": 15,
+      "frequency": 167,
+      "gain": 0.28,
+      "loop": 1,
+      "play": 1
+    }
+  ],
+  "phfVersion": "V1.0"
+}

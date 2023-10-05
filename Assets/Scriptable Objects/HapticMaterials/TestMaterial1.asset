@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e9566b33e9f964e93ffe3c47da488e, type: 3}
+  m_Name: TestMaterial1
+  m_EditorClassIdentifier: 
+  thudEffectByAudio: {fileID: 0}
+  slideEffectByAudio: {fileID: 0}
+  contactEffectByAudio: {fileID: 0}
+  thudEffectByPHF: {fileID: 1042094116111776886, guid: ae278d1a80c2f52458a31aa2e414a516, type: 3}
+  slideEffectByPHF: {fileID: 1042094116111776886, guid: fb72b28cff1718c4a8b0d67a8d84aeae, type: 3}
+  contactEffectByPHF: {fileID: 0}
+  thudPHFLengthInSeconds: 0.4
+  slidePHFLengthInSeconds: 0.2
+  contactPHFLengthInSeconds: 0.4
